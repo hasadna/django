@@ -95,6 +95,7 @@ msgid ""
 "Please enter a correct %(username)s and password. Note that both fields may "
 "be case-sensitive."
 msgstr ""
+"אנא הכניסו %(username)s וססמא מתאימה"
 
 #: forms.py:153
 msgid ""
